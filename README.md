@@ -1,7 +1,3 @@
-Here's a concise README for your GitHub repository:
-
----
-
 # Password Manager
 
 A simple, secure, and privacy-focused password manager app built using **React**, **Vite**, **Tailwind CSS**, and **Lord Icons**. This app allows users to securely store their passwords locally in the browser's **localStorage** without relying on external servers. 
